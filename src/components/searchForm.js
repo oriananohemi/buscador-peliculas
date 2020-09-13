@@ -1,18 +1,35 @@
 import React, { Component } from 'react';
 
 export class SearchForm extends Component {
+  state = {
+    inputMovie: ''
+  }
+
+  _handleChange = (e) => {
+    this.setState({ inputMovie: e.target.value })
+  }
+  _handleSubmit = (e) => {
+    e.preventDefault();
+    alert(this.state.inputMovie)
+  }
   render () {
     return (
-      <div class="field has-addons">
-        <div class="control">
-          <input class="input" type="text" placeholder="Movie to search"/>
+      <form onSubmit={this._handleSubmit}>
+        <div className="field has-addons">
+          <div className="control">
+            <input 
+              className="input"
+              type="text"
+              onChange={ this._handleChange }
+              placeholder="Movie to search"/>
+          </div>
+          <div class="control">
+            <button className="button is-info">
+              Search
+            </button>
+          </div>
         </div>
-        <div class="control">
-          <button class="button is-info">
-            Search
-          </button>
-        </div>
-      </div>
+      </form>
     )
   }
 }
