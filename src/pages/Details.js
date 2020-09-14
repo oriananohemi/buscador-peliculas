@@ -32,7 +32,7 @@ export class Detail extends Component {
 
     return (
       <div>
-      <button oncClick={this._goBack}>Volver</button>
+      <button onClick={this._goBack}>Volver</button>
         <h1>{Title}</h1>
         <img
           src={Poster}
