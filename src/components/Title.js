@@ -1,5 +1,5 @@
 import React from 'react'
 
 export const Title = ({ children }) => (
-  <h1 className="title">{children}</h1>
+  <h1 className="title has-text-white">{children}</h1>
 )

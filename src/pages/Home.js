@@ -17,17 +17,18 @@ export class Home extends Component {
   }
   render() {
     return (
-      <div>
-      <Title>Search Movies</Title>
-      <div className="SearchForm-wrapper">
-        <SearchForm onResults={this._handlerResults}/>
+      <div className="homePage">
+        <Title>Search Movies</Title>
+        <div className="SearchForm-wrapper">
+          <SearchForm onResults={this._handlerResults}/>
+        </div>
+        {
+          this.state.usedSearch
+          ? this._renderResults()
+          : <small className="has-text-white">Use the form to search a movie</small>
+        }
+        <a className="has-text-success copy" href="https://github.com/oriananohemi">oriananohemi</a>
       </div>
-      {
-        this.state.usedSearch
-        ? this._renderResults()
-        : <small>Use the form to search a movie</small>
-      }
-  </div>
     )
   }
   

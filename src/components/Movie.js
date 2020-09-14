@@ -28,14 +28,6 @@ export class Movie extends Component {
             <p className="subtitle is-6">{year}</p>
           </div>
         </div>
-
-        <div className="content">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-          Phasellus nec iaculis mauris. <a>@bulmaio</a>.
-          <a href="#">#css</a> <a href="#">#responsive</a>
-          <br/>
-          <time datetime="2016-1-1">11:09 PM - 1 Jan 2016</time>
-        </div>
       </div>
     </Link>
     )
