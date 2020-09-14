@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import { Title } from './components/Title.js';
-import { SearchForm } from './components/searchForm'
+import { SearchForm } from './components/SearchForm'
 
 import './App.css';
 import 'bulma/css/bulma.css';
