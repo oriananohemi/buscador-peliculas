@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
+import { ButtonBackToHome } from '../components/ButtonBackToHome'
 
 const API_KEY = '4287ad07';
 
@@ -37,7 +38,7 @@ export class Detail extends Component {
 
     return (
       <div>
-      <button onClick={this._goBack}>Volver</button>
+        < ButtonBackToHome />
         <h1>{Title}</h1>
         <img
           src={Poster}
