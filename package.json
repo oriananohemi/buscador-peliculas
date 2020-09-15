@@ -20,7 +20,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://github.com/oriananohemi/buscador-peliculas",
+  "homepage": "https://oriananohemi.github.io/buscador-peliculas/",
   "eslintConfig": {
     "extends": "react-app"
   },
