@@ -1,7 +1,6 @@
 {
   "short_name": "React App",
   "name": "Create React App Sample",
-  "homepage": "https://github.com/oriananohemi/buscador-peliculas",
   "icons": [
     {
       "src": "favicon.ico",
