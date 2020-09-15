@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "19251a6404203c342afc5a5409124451",
+    "revision": "8d1d2de05b178dd38b8e823fde58049a",
     "url": "/buscador-peliculas/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/buscador-peliculas/static/css/2.3807f13a.chunk.css"
   },
   {
-    "revision": "929789cf140597b54990",
+    "revision": "a7f70b54ae80f0e35c86",
     "url": "/buscador-peliculas/static/css/main.0e8825b9.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/buscador-peliculas/static/js/2.38cb9bd5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "929789cf140597b54990",
-    "url": "/buscador-peliculas/static/js/main.f9caf78f.chunk.js"
+    "revision": "a7f70b54ae80f0e35c86",
+    "url": "/buscador-peliculas/static/js/main.88115204.chunk.js"
   },
   {
     "revision": "4a772914ae6cf6785f95",

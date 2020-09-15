@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/buscador-peliculas/static/css/main.0e8825b9.chunk.css",
-    "main.js": "/buscador-peliculas/static/js/main.f9caf78f.chunk.js",
-    "main.js.map": "/buscador-peliculas/static/js/main.f9caf78f.chunk.js.map",
+    "main.js": "/buscador-peliculas/static/js/main.88115204.chunk.js",
+    "main.js.map": "/buscador-peliculas/static/js/main.88115204.chunk.js.map",
     "runtime-main.js": "/buscador-peliculas/static/js/runtime-main.3820cde4.js",
     "runtime-main.js.map": "/buscador-peliculas/static/js/runtime-main.3820cde4.js.map",
     "static/css/2.3807f13a.chunk.css": "/buscador-peliculas/static/css/2.3807f13a.chunk.css",
     "static/js/2.38cb9bd5.chunk.js": "/buscador-peliculas/static/js/2.38cb9bd5.chunk.js",
     "static/js/2.38cb9bd5.chunk.js.map": "/buscador-peliculas/static/js/2.38cb9bd5.chunk.js.map",
     "index.html": "/buscador-peliculas/index.html",
-    "precache-manifest.b22b6191a7d6775ee033d83b10104ce4.js": "/buscador-peliculas/precache-manifest.b22b6191a7d6775ee033d83b10104ce4.js",
+    "precache-manifest.0d26fe440d0b16498729c7570d9e0223.js": "/buscador-peliculas/precache-manifest.0d26fe440d0b16498729c7570d9e0223.js",
     "service-worker.js": "/buscador-peliculas/service-worker.js",
     "static/css/2.3807f13a.chunk.css.map": "/buscador-peliculas/static/css/2.3807f13a.chunk.css.map",
     "static/css/main.0e8825b9.chunk.css.map": "/buscador-peliculas/static/css/main.0e8825b9.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.3807f13a.chunk.css",
     "static/js/2.38cb9bd5.chunk.js",
     "static/css/main.0e8825b9.chunk.css",
-    "static/js/main.f9caf78f.chunk.js"
+    "static/js/main.88115204.chunk.js"
   ]
 }
