@@ -10,7 +10,6 @@ Escrito en React, utilizando Bulma y la API de [OMDB](http://www.omdbapi.com/)
 <img src="./src/assets/Screenshot from 2020-09-14 17-54-05.png">
 <img src="./src/assets/Screenshot from 2020-09-14 17-54-24.png">
 
-
 ## Scripts
 
 Puedes ejecutar el comando con `npm` o con `yarn`
