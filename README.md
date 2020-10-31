@@ -6,6 +6,7 @@ Escrito en React, utilizando Bulma y la API de [OMDB](http://www.omdbapi.com/)
 
 [Demo del Proyecto](https://oriananohemi.github.io/buscador-peliculas/)
 
+
 <img src="./src/assets/Screenshot from 2020-09-14 17-53-53.png">
 <img src="./src/assets/Screenshot from 2020-09-14 17-54-05.png">
 <img src="./src/assets/Screenshot from 2020-09-14 17-54-24.png">
