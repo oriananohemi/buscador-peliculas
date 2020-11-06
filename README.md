@@ -4,6 +4,8 @@ Buscador de Peliculas, realizado siguiendo Curso de React de [midudev](https://g
 
 Escrito en React, utilizando Bulma y la API de [OMDB](http://www.omdbapi.com/)
 
+Puede realizar la busqueda de la pelicula por su titulo en ingles.
+
 [Demo del Proyecto](https://oriananohemi.github.io/buscador-peliculas/)
 
 
